@@ -1,12 +1,12 @@
 variable "subscription_hub" {
-  type    = string
+  type = string
 }
 
 variable "subscription_spoke" {
-  type    = string
+  type = string
 }
 
 variable "tenant_id" {
-  type    = string
+  type = string
 }
 
